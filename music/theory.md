@@ -1,0 +1,140 @@
+## MUSIC THEORY
+
+OCTAVE
+
+HALF STEP
+SEMITONE
+
+C->F FOURTH C, D, E, F = 4
+B->C MINOR SECOND BUT SEMITONG WITH NO BLACK NOTE BETWEEN
+WHOLE STEM
+TONE
+
+FIVE LINES
+STAVE / STAFF
+
+G-CLEF
+THE DOWN SECOND LINE STAND FOR G4
+F-CLEF
+C-CLEF
+
+G#
+G sharp
+G flat
+
+G sharp = A flat
+
+![NOTE](https://pin.it/326bqm2)
+### SCALE
+PATTERN OF INTERVALS
+
+MAJOR SCALE
+SOUNDS HAPPY
+W W H W W W H
+T T S T T T S
+
+MINOR SCALE 
+SOUNDS SAD
+W H W W H W W
+T S T T S T T
+
+C D E F G A B A
+C MAJOR
+A B C D E F G A
+A MINOR
+
+KEY SINGATURE 
+
+G MAJOR
+G MINOR
+G IS TONIC
+
+DIATONIC SCALE
+PATTERN THAT HAVE FIVE TONES AND TWO SEMITONES
+
+MAJOR THIRD
+MINOR THIRD
+
+PERFECT FOURTH
+PERFECT FIFTH
+
+SAME AS MAJOR & MINOR
+
+CHORDS
+PLAY SOME SAME TIME
+
+TRIAD
+I.E.
+
+Cmajor
+Cmaj
+CM
+C MAJOR
+ 4 3
+C E G
+C MINOR
+ 3  4
+C Ef G
+
+A MINOR
+Aminor
+Amin
+A-
+THE CIRCLE OF FIFTHS
+
+F MAJOR
+F G A Bf C D E F
+      As BUT A HAS OCCURED
+
+PRAFECT FIFTH + MAJOR THIRD
+= MAJOR TAIRD
+DIMINISHED FIFTH + MINOR THIRE
+= DIMINISHED TAIRD
+
+B dim
+
+FIRST SIX TRIAD OF MAJOR SCALE
+1.I
+2.ii
+3.iii
+4.IV
+5.V
+6.vi
+
+C Ionian mode – C major chord
+D Dorian mode – D minor chord
+E Phrygian mode – E minor chord
+F Lydian mode – F major chord
+G Mixolydian mode – G major chord
+A Aeolian mode – A minor chord
+B Locrian mode – B diminished triad (root, minor third, and diminished fifth)
+
+C MAJOR
+TONE
+F
+SUBDOMINANT
+G
+DOMINANT
+
+INVERSIONS
+C E G
+E G C
+G C E
+
+MELODIES
+Playing two or more notes at the same time creates harmonic intervals (chords). 
+Playing single notes in a sequence makes melodic intervals (melodies).
+
+F MAJOR
+F G A Bf C D E
+F MAJOR PENTATONIC
+F G A C D
+4TH AND 7TH DEGREES REMOVED
+
+RHYTHM
+
+RUDIMENTS OF DURATION NOTATION
+WHOLE NOTE
+HALF NOTE
+QUARTER NOTE
+
