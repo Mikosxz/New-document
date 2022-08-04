@@ -1,0 +1,398 @@
+Yo soy un hombre.  
+
+Yo soy una mujer.  
+
+El niño.  
+
+El hombre.  
+
+La niña.  
+
+La mujer.  
+
+La manzana.  
+
+Juan come manzanas.  
+
+Él es un niño.  
+
+Ella es una niña.  
+
+Tú eses una niña.  
+
+Él come manzanas.  
+
+La leche.  
+
+El pan.  
+
+El agua.  
+
+Yo como agua.  
+
+La mujer bebe agua.  
+
+Yo bebo agua. 
+
+Tú bebe leche.  
+
+¿Tú bebes agua?  
+
+¿Tú comes pan?  
+
+¡Adiós! 
+
+Hola, yo soy Juan. 
+
+¡Buenas noches! 
+
+¡Buenos días! 
+
+Mucho gusto. 
+
+Adiós, buenas noches. 
+
+Gracias, Juan. 
+
+¿Perdón? 
+
+Lo siento. 
+
+¡Lo siento!¡Perdón! 
+
+No, gracias. 
+
+Por favor, no. 
+
+No, lo siento. 
+
+Sí, gracias. 
+
+De nada, Juan. 
+
+Gracias. Adiós. 
+
+De nada. Adiós. 
+
+Sí, agua, por favor. 
+
+¿Perdón, Luis? 
+
+Yo hablo español. 
+
+Yo hablo inglés. 
+
+¿Tú hablas español? 
+
+¡Disculpe! 
+
+Sí, yo hablo español. 
+
+Juan, ¿Tú hablas inglés? 
+
+Hola, ¿Hablas inglés? 
+
+No, lo siento. 
+
+Un taxi. 
+
+Mi teléfono. 
+
+Yo necesito mi maleta. 
+
+Necesito mi pasaporte, por favor. 
+
+Yo necesito agua. 
+
+¡Necesito un taxi, por favor! 
+
+El pasaporte, por favor. 
+
+Yo necesito un teléfono. 
+
+Mi reserva. 
+
+¿Dónde? 
+
+Yo tengo un pasaporte. 
+
+Aquí, por favor. 
+
+Mi pasaporte está en el hotel. 
+
+Yo tengo una reserva en el hotel. 
+
+El hombre está en el hotel. 
+
+Yo tengo una maleta. 
+
+¿Dónde está el teléfono? 
+
+El taxi está aquí. 
+
+¡Es ella! 
+
+Un boleto, por favor. 
+
+Un boleto a Barcelona. 
+
+¿Dónde está tu pasaporte? 
+
+Yo tengo tu boleto a Madrid. 
+
+En el aeropuerto. 
+
+En el autobús. 
+
+Un tren. 
+
+En el museo. 
+
+En el hospital. 
+
+En la calle. 
+
+En el supermercado. 
+
+Mi calle. 
+
+El hospital está cerrado. 
+
+El baño está aquí. 
+
+¿Dónde está el banco? 
+
+¿Dónde está el supermercado? 
+
+Un boleto a Santiago. 
+
+Una mesa para dos personas. 
+
+Uno, dos, tres. 
+
+Yo tengo una reserva para tres personas. 
+
+El restaurante está cerrado. 
+
+Un restaurante español. 
+
+Ella come pescado en el restaurante. 
+
+Una hamburguesa, por favor. 
+
+Un sándwich de pescado. 
+
+¿Un sándwich de carne con queso? 
+
+Sí, con queso, por favor. 
+
+Yo como una hamburguesa con carne. 
+
+¿Un sándwich de manzana? 
+
+No,¡Un sándwich de carne con queso! 
+
+Una hamburguesa de pescado. 
+
+Sin leche, por favor. 
+
+¿Un jugo de naranja? 
+
+Sin azúcar, por favor. 
+
+Una taza de café. Gracias. 
+
+¿Sin leche? 
+
+¡Mi café con azúcar, por favor! 
+
+Un café sin azúcar. 
+
+Un vaso de agua. 
+
+Una ensalada de tomate. 
+
+¿Carne o pescado? 
+
+Yo quiero una ensalada. 
+
+Yo quiero una hamburguesa. Gracias. 
+
+¿Con o sin queso? 
+
+Yo necesito la cuenta. 
+
+Yo necesito pagar. 
+
+Quiero mi ensalada con tomate, por favor. 
+
+Sin sal, por favor. 
+
+Yo quiero pagar la cuenta. 
+
+Una mesa para dos, por favor. 
+
+Mi padre es inteligente. 
+
+Ella tiene un carro. 
+
+Él es elegante. 
+
+Mi madre es elegante. 
+
+Tu padre tiene un carro. 
+
+Ella tiene una casa. 
+
+Muy inteligente. 
+
+Mi casa es grande. 
+
+Yo tengo un hermano. 
+
+Mi carro es bonito. 
+
+Mi hermano es muy inteligente. 
+
+Tu perro es muy bonito. 
+
+Mi familia es grande. 
+
+¡Perfecto! 
+
+Yo tengo una abuela. 
+
+Mi apartamento es grande. 
+
+Tu apartamento es muy bonito. 
+
+Mi carro es perfecto. 
+
+Mi familia es interesante. 
+
+Yo vivo aquí. 
+
+Yo tengo una hija. 
+
+Yo no vivo en Francia. 
+
+¿Tú tienes un hermano? 
+
+Yo tengo un hijo. 
+
+Ella tiene una bicicleta grande. 
+
+Un esposo y una esposa. 
+
+Tengo una hija. 
+
+Un gato y un perro. 
+
+Yo vivo en un apartamento. 
+
+¿Tienes un hermano? 
+
+Sí, tengo un hermano y una hermana. 
+
+Luis es mi padre. 
+
+Él tiene un carro elegante. 
+
+Es tu hermano. 
+
+Una chaqueta verde. 
+
+Una chaqueta azul. 
+
+Yo quiero una camisa 
+
+Yo quiero una camisa verde 
+
+Una tienda elegante. 
+
+Mi ropa. 
+
+Yo quiero este vestido. 
+
+Yo quiero comprar una camisa. 
+
+Una camiseta verde. 
+
+Quiero comprar este vestido. 
+
+Es muy bonito. 
+
+¿Gris o marrón? 
+
+Este sombrero marrón es muy grande. 
+
+Yo necesito una camiseta. 
+
+Yo necesito un vestido rojo. 
+
+Una falda diferente. 
+
+Ese sombrero. 
+
+Ese abrigo. 
+
+Un sombrero barato. 
+
+Un sombrero caro. 
+
+Una tienda diferente. 
+
+Un abrigo caro. 
+
+Ese vestido, por favor. 
+
+Un reloj para mi esposo. 
+
+Yo necesito un cinturón. 
+
+Mi camiseta favorita. 
+
+Demasiado caro. 
+
+Una falda cómoda. 
+
+Mi tienda favorita. 
+
+Una cartera marrón. 
+
+Necesito comprar una cartera marrón. 
+
+Es muy regalo. 
+
+Un cinturón caro. 
+
+Yo quiero un reloj. 
+
+¡Es demasiado caro! 
+
+Yo quiero comprar un regalo. 
+
+Este reloj es demasiado caro. 
+
+Un regalo para mi hija. 
+
+Quiero comprar un abrigo. 
+
+Ese abrigo verde es muy barato. 
+
+Mi tienda de ropa es elegante. 
+
+Hola, buenos días. Quiero una chaqueta verde. 
+
+¿Verde o azul? 
+
+Yo necesito ropa. 
+
+Buenos días, necesito una camiseta grande y verde, por favor. 
+
+Yo quiero este vestido. 
+
+Mi abrigo azul es caro, bonito y muy elegante. 
+
+Yo quiero ese sombrero. 
+

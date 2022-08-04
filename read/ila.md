@@ -5,38 +5,14 @@
 
 # Lec01 Geogetry meaning
 
-$$
-2x -  y = 0 \\
--x + 2y = 3 \\
-
-\begin{bmatrix}
-2 & -1 \\
--1 & 2
-\end{bmatrix}
-
-\begin{bmatrix}
-x \\
-y
-\end{bmatrix}
-
-=
-
-\begin{bmatrix}
-0 \\
-3
-\end{bmatrix}\\
-
-A X = b
-$$
-
 <iframe src="https://www.geogebra.org/calculator/barfggqy?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
-row picture
+**row picture**
 
 <iframe src="https://www.geogebra.org/calculator/twzn2dwj?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 
-column picture
+**column picture**
 
 
 
@@ -228,8 +204,8 @@ row \times matrix = row\\
 $$
 
 $$
-\* left\ multiply\ row\\
-\* right\ multiply\ column
+*\ left\ multiply\ row\\
+*\ right\ multiply\ column
 $$
 
 Matrix
