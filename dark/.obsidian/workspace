@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "lang/Meta/IME.md",
+            "file": "lang/Meta/漢字.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lang/Meta/IME.md",
+                "file": "lang/Meta/漢字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lang/Meta/IME.md",
+                "file": "lang/Meta/漢字.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lang/Meta/IME.md"
+                "file": "lang/Meta/漢字.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "8cf599b00da50b65",
   "lastOpenFiles": [
-    "read/欧洲早期汉学史/欧洲早期汉学史.md",
-    "read/摘抄/王小波.md",
-    "read/摘抄/微言大义.md",
+    "lang/日本語/音読み.md",
+    "lang/日本語/訓読み.md",
     "read/摘抄/束星北.md",
     "read/摘抄/孟子.md",
     "read/摘抄/林鹤连.md",
-    "read/摘抄/里根.md",
+    "read/摘抄/羅廣斌.md",
     "read/摘抄/柏拉图.md",
+    "read/摘抄/王小波.md",
     "read/摘抄/高德纳.md",
-    "read/文章/民国大军阀经典语录.md"
+    "read/摘抄/里根.md"
   ]
 }

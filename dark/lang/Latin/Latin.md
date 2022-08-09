@@ -1,6 +1,6 @@
 Quis custodiet ipsos custodes. 
 
-quod erat demonstrandum 
+Quod erat demonstrandum 
 
 exempli gratia 
 
