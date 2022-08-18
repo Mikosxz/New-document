@@ -3,3 +3,5 @@ Ctrl + X Cut the line
 Alt + up Move the line
 Alt + Shift + up Copy the line
 Ctrl + left move word by word
+Ctrl + shift + ` terminal
+Ctrl + shift + p command palette
