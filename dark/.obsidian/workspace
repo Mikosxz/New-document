@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8cf599b00da50b65",
+        "id": "a0b4ec5c531aa91a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8cf599b00da50b65",
+  "active": "a0b4ec5c531aa91a",
   "lastOpenFiles": [
-    "read/摘抄/里根.md",
-    "read/摘抄/高德纳.md",
-    "read/摘抄/微言大义.md",
-    "read/摘抄/王小波.md",
-    "read/摘抄/束星北.md",
-    "read/摘抄/孟子.md",
     "read/摘抄/林鹤连.md",
-    "read/文章/民国大军阀经典语录.md",
-    "read/文章/从一月九日到一月五日.md",
-    "lang/Meta/漢字.md"
+    "read/摘抄/束星北.md",
+    "read/摘抄/王小波.md",
+    "lang/日本語/踊り字.md",
+    "lang/日本語/母音無聲化.md",
+    "lang/日本語/連濁.md",
+    "lang/日本語/音便.md",
+    "lang/日本語/音読み.md",
+    "lang/日本語/擬声語・擬態語.md",
+    "archive/George Washington's Farewell Address.pdf"
   ]
 }

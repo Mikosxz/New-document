@@ -31,3 +31,45 @@ Hallo, Julia.
 Danke schön. 
 
 Ja, bitte. 
+
+Hallo! Ich bin Karl.
+
+Ich bin Nina.
+
+Ja, ich bin Lukas.
+
+Eine Mutter und ein Vater.
+
+Meine Schwester und mein Bruder.
+
+Mein Vater und mein Bruder.
+
+Meine Schwester und mein Mann.
+
+Mein Mann und Mutter.
+
+Mein Vater und mein Sohn.
+
+Meine Mutter und meine Tochter.
+
+Du bist meine Mutter.
+
+Meine Frau und mein Sohn.
+
+Ja, du bist meine Tochter.
+
+Du bist meine Schwester.
+
+Du bist meine Frau.
+
+Ich bin groß.
+
+Ja, Mutter, du bist nett.
+
+Mein Bruder ist sehr groß.
+
+Mein Mann ist klug.
+
+Mein Vater ist groß und nett.
+
+Ich bin sehr klug.
