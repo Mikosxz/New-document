@@ -106,3 +106,115 @@ ne go hai ngo ge din waa lam baa.
 nei hai m hai ngaam lai gwong zau aa.
 呢個係我哋嘅微信羣二維碼。
 ne go hai ngo dei ge mei seon kwan ji wai maa.
+請問廁所喺邊度？
+ceng man ci so hai bin dou?
+電梯喺邊度？
+din tai hai bin dou?
+唔該，請問出口喺邊度?
+m goi, ceng man ceot kau hai bin dou?
+電梯喺嗰度。
+din tai hai go dou.
+唔該，請問電梯喺邊度？
+m goi, ceng man din tai hai bin dou?
+呢度有一間餐廳。
+nei dou jau jat gaan caan teng.
+請問呢度有冇銀行？
+ceng man nei dou jau mou ngan hong?
+請問呢度有冇充電寶？
+ceng man nei dou jau mou cung din bou?
+呢度有餐廳。
+nei dou jau caan teng.
+呢度有一間便利店。
+nei dou jau jat gaan bin lei dim.
+請問售票處喺邊度？
+ceng man sau piu cyu hai bin dou?
+唔該，請問呢度有冇地鐵站？
+m goi, ceng man nei dou jau mou dei tit zaam?
+請問巴士站喺邊度？
+ceng man baa si zaam hai bin dou?
+唔好意思，售票處唔喺邊度。
+m hou ji si, sau piu cyu m hai bin dou.
+我唔知地鐵站喺邊度。
+ngo m zi dei tit zaam hai bin dou.
+我唔知巴士站點行。
+ngo m zi baa si zaam dim hong.
+出口喺嗰度。
+ceot kau hai go dou.
+我哋搭的士去廣州塔啦。
+ngo dei daap dik si heoi gwong zau taap laa.
+我今日得閒，我哋去廣州塔啦！
+ngo gam jat dak haan, ngo dei heoi gwong zau taap laa!
+搭地鐵去廣州塔大概要幾耐啊？
+daap dei tit heoi gwong zau taap daai koi jiu gei noi aa?
+去廣州塔大概要十零分鐘。
+heoi gwong zau taap daai koi jiu sap ling fan zung.
+我哋搭的士啦。
+ngo dei daap dik si laa.
+我哋行路啦。
+ngo dei haang lou laa.
+今日去邊度行街啊？
+gam jat heoi bin dou haang gaai aa?
+我哋係唔係踹單車去廣州塔啊？
+ngo dei hai m hai caai daan ce heoi gwong zau taap aa?
+大概卅零分鐘啩。
+daai koi saa ling fan zung gwaa.
+我哋喺踹單車定係搭的士啊？
+ngo dei hai caai daan ce ding hai daap dik si aa?
+我哋今日去上下九行街啦。
+ngo dei gam jat heoi soeng haa gau haang gaai laa.
+你哋唔使客氣。
+ngo dei m sai haak hei.
+差唔多一百米。
+caa m do jat baak mai.
+行兩百米就到喇，唔使搭的士。
+haang loeng baak mai zau dou laa, m sai daap dik si.
+唔該，請問去上下九步行街點行？
+m goi, ceng man heoi soeng haa gau bou haang gaai dim haang?
+由呢度轉右，行差唔多兩百米就到喇。
+jau nei dou zyun jau, haang caa m do loeng baak mai zau dou laa.
+多謝晒！
+do ze saai!
+直行到紅綠燈嗰度，轉左就到喇。
+zik haang dou hung luk dang nei dou, zyun zo zau dou laa.
+呢度離上下九步行街有幾遠？
+nei dou lei soeng haa gau bou haang gaai jau gei jyun?
+我知喇，多謝晒。
+ngo zi laa, do ze saai.
+唔該，請問呢度離廣州塔有幾遠？
+m goi, ceng man nei dou lei gwong zau taap jau gei jyun?
+由呢度直行，喺紅綠燈嗰度轉右就到喇。
+jau nei dou zik haang, hai hung luk dang go dou zyun jau zau dou laa.
+弊喇！
+bai laa!
+到咗越秀公園站啦！
+dou zo jyut sau gung jyun zaam laa!
+唔好意思，你過咗站喇。
+m hou ji si, nei gwo zo zaam laa.
+我哋到咗，可以落車喇。
+ngo dei dou zo, ho ji lok ce laa.
+我搭過咗站，點算啊？
+ngo daap gwo zo zaam, dim syun aa?
+仲有十零分鐘到站。
+zung jau sap ling fan zung dou zaam.
+弊喇，我搭過咗站！有排行喇。
+bai laa, ngo daap gwo zo zaam! jau paai haang laa.
+仲有卅零分鐘，有排等喇。
+zung jau saa ling fan zung, jau paai dang laa.
+你隔離係唔係有一間銀行？
+nei gaak lei hai m hai jau jat gaan ngan hong?
+你係唔係企喺一間銀行隔離？
+nei hai m hai kei hai jat gaan ngan hong gaak lei?
+我唔知你喺邊度，搵唔到你噃。
+ngo m zi nei hai bin dou, wan m dou nei bo.
+我喺便利店對面。
+ngo hai bin lei dim deoi min.
+我企喺一間便利店對面。
+ngo kei hai jat gaan bin lei dim deoi min.
+我喺地鐵站入面。
+ngo hai dei tit zaam jap min.
+咪企喺地鐵站入面喇，揾唔到你啊！
+mai kei hai dei tit zaam jap min laa, wan m dou nei aa!
+你就企喺嗰度，咪喐。
+nei zau kei hai go dou, mai juk.
+你唔使喐，企喺嗰度就可以啦。
+nei m sai juk, kei hai go dou zau ho ji laa.
