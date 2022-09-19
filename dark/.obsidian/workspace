@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "read/摘抄/王小波.md",
+            "file": "read/欧洲早期汉学史/欧洲早期汉学史.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "read/摘抄/王小波.md",
+                "file": "read/欧洲早期汉学史/欧洲早期汉学史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "read/摘抄/王小波.md",
+                "file": "read/欧洲早期汉学史/欧洲早期汉学史.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "read/摘抄/王小波.md"
+                "file": "read/欧洲早期汉学史/欧洲早期汉学史.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "a0b4ec5c531aa91a",
   "lastOpenFiles": [
+    "read/论法的精神/法律.md",
+    "report/annual/Huawei/华为任正非-文选集.pdf",
+    "read/摘抄/王小波.md",
     "read/摘抄/束星北.md",
     "read/摘抄/林鹤连.md",
     "read/摘抄/里根.md",
     "read/摘抄/柏拉图.md",
-    "read/摘抄/王小波.md",
     "lang/日本語/踊り字.md",
     "lang/日本語/母音無聲化.md",
-    "lang/日本語/連濁.md",
-    "lang/日本語/音便.md",
-    "lang/日本語/音読み.md"
+    "lang/日本語/連濁.md"
   ]
 }
