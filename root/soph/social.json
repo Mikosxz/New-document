@@ -1,33 +1,40 @@
 {
     "pillsophlogy":[
-        {"name":["洞穴寓言"]},
-        {"name":["黑格尔"]},
+        {"name":["The Allegony of Cave Plato's Cave"]},
+        {"name":[""]},
         {"name":[""]}
     ],
 
     "law":[
-        {"name":["大陆法系"]},
-        {"name":["权力法案"]},
-        {"name":["第十四条修正案"]},
+        {"name":["Continental Law System Civil Law System"]},
+        {"name":["Bill of Rights"]},
+        {"name":["14th Amendment"]},
+        {"name":["The Case of the Speluncean Explorers"]},
+        {"name":[""]},
+        {"name":[""]},
         {"name":[""]}
     ],
 
     "psychology":[
-        {"name":["语义饱和"]},
-        {"name":["既视感"]},
-        {"name":["贾斯特罗错觉"]},
-        {"name":["恐怖谷效应"]},
-        {"name":["母语羞涩"]},
-        {"name":["巴纳姆效应"]},
+        {"name":["Semantic Satiation"]},
+        {"name":["Déjà vu"]},
+        {"name":["Jastrow illusion"]},
+        {"name":["Uncanny Valley 不気味の谷現象"]},
+        {"name":["Shy of Mother Tongue"]},
+        {"name":["Barnum Effect Forer Effect"]},
+        {"name":["Mere Exposure Effect"]},
+        {"name":[""]},
         {"name":[""]},
         {"name":[""]}
     ],
 
     "economics":[
-        {"name":["蒙代尔不可能三角形"]},
-        {"name":["李嘉图"]},
-        {"name":["魁奈"]},
-        {"name":["凡勃伦效应"]},
+        {"name":["Impossible trinity"]},
+        {"name":["Vablen Effect"]},
+        {"name":["Physiocracy"]},
+        {"name":["Say's Law"]},
+        {"name":["Middle Income Trap"]},
+        {"name":[""]},
         {"name":[""]},
         {"name":[""]}
     ],
@@ -43,31 +50,41 @@
     ],
 
     "policy":[
-        {"name":["沙文主义"]},
-        {"name":["波斯信使综合症"]},
-        {"name":["塔西佗陷阱"]},
+        {"name":["Chauvinisme Chauvinism"]},
+        {"name":["Persian messenger syndrome"]},
+        {"name":["Tacitus Trap"]},
+        {"name":["Thucydides Trap"]},
+        {"name":[""]},
+        {"name":[""]},
         {"name":[""]},
         {"name":[""]}
     ],
     
     "comminication":[
-        {"name":["接受美学"]},
+        {"name":["Reception theory"]},
+        {"name":["Inoculation theory"]},
+        {"name":[""]}
+    ],
+
+    "linguistics":[
+        {"name":[""]},
         {"name":[""]},
         {"name":[""]}
     ],
-    "linguistics":[
-        {"name":["婆罗米文字"]},
-        {"name":["回鹘字母"]},
-        {"name":["希伯来字母"]},
-        {"name":["札那巴札尔方形字母"]},
-        {"name":["索永布字母"]},
-        {"name":["藏文"]},
-        {"name":["天城体"]},
-        {"name":["泰米尔文"]},
-        {"name":["缅文"]},
-        {"name":["泰文"]},
-        {"name":["希腊字母"]},
-        {"name":["巽他语字母"]},
+
+    "alphabet":[
+        {"name":["婆罗米文字 Brahmi script"]},
+        {"name":["回鹘字母 Old Uyghur alphabet"]},
+        {"name":["希伯来字母 Hebrew alphabet"]},
+        {"name":["札那巴札尔方形字母 Zanabazar Square Хэвтээ Дөрвөлжин бичиг"]},
+        {"name":["索永布字母 Soyombo script Соёмбо бичиг"]},
+        {"name":["藏文 Tibetan script བོད་ཡིག་"]},
+        {"name":["天城文 Devanagari देवनागरी"]},
+        {"name":["泰米尔文 Tamil script தமிழ் அரிச்சுவடி"]},
+        {"name":["缅文 Burmese alphabet မြန်မာအက္ခရာ"]},
+        {"name":["泰文 Thai script อักษรไทย"]},
+        {"name":["腓尼基字母 Phoenician alphabet"]},
+        {"name":["巽他语字母 Sundanese script"]},
         {"name":[""]},
         {"name":[""]},
         {"name":[""]}

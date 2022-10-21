@@ -19,4 +19,4 @@ Tpimage、Beautyle、动感小站的相同模特对照表
 
 妖精=Icey
 
-可欣=sandy
+可欣=sandy, coco 蔡欣蓓
