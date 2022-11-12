@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "5d2952c7daf2f597",
+    "type": "split",
+    "children": [
+      {
+        "id": "34fd9703ee09da30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d20e40fa84c800cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "read/Plato.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "480386b97ba84171",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ba454eebe46f589",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d264528ea3f99c25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a64fb92e38f535e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69f07b5ac502b3b8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e8573594b3f3e373",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ce01f3151404f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "461173599e1bb781",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "read/Plato.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47dc88290ffe0dfc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "read/Plato.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d74dc93966e3cdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "77a5bc87ac419373",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "read/Plato.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d20e40fa84c800cd",
+  "lastOpenFiles": [
+    "case/18-956 Google LLC v. Oracle America, Inc. (04 05 2021).pdf",
+    "read/Plato.md",
+    "read/Reagon.md",
+    "read/Wang Xiaobo.md",
+    "read/Lin Helian.md",
+    "lang/Meta/日本語.md",
+    "lang/Latin/Latin.md",
+    "2022-11-05.md",
+    "lang/Meta/漢字.md",
+    "lang/Meta/IME.md"
+  ]
+}
