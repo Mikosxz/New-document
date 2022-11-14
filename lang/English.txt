@@ -6,9 +6,6 @@ Interpreter note
 
 Write articles
 
-翻译是一种复述
-阅读，理解，复述
-
 Latin Phrase
 
 de facto
@@ -24,3 +21,12 @@ id est
 tabula rasa
 
 carpe diem
+
+en masse
+
+Quis custodiet ipsos custodes.
+
+Quod erat demonstrandum
+
+exempli gratia
+

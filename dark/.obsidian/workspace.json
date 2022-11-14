@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "read/Plato.md",
+                "file": "lang/日本語/踊り字.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "read/Plato.md",
+                "file": "lang/日本語/踊り字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "read/Plato.md",
+                "file": "lang/日本語/踊り字.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "read/Plato.md"
+                "file": "lang/日本語/踊り字.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "d20e40fa84c800cd",
   "lastOpenFiles": [
+    "lang/日本語/音読み.md",
+    "lang/日本語/音便.md",
+    "lang/日本語/訓読み.md",
+    "lang/日本語/擬声語・擬態語.md",
+    "lang/日本語/母音無聲化.md",
+    "lang/日本語/連濁.md",
     "case/18-956 Google LLC v. Oracle America, Inc. (04 05 2021).pdf",
-    "read/Plato.md",
-    "read/Reagon.md",
-    "read/Wang Xiaobo.md",
-    "read/Lin Helian.md",
-    "lang/Meta/日本語.md",
+    "archive/George Washington's Farewell Address.pdf",
     "lang/Latin/Latin.md",
-    "2022-11-05.md",
-    "lang/Meta/漢字.md",
-    "lang/Meta/IME.md"
+    "lang/Meta/漢字.md"
   ]
 }
