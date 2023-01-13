@@ -18,9 +18,9 @@ Tu es Paul.
 
 C’est un cheval. 
 
-Tu es un chat ? 
+Tu es un chat? 
 
-Tu es Marie ? 
+Tu es Marie? 
 
 C’est un chien. 
 
@@ -50,19 +50,19 @@ Oui.
 
 Bonjour, Charlotte. 
 
-Comment ça va ? 
+Comment ça va? 
 
-Ça va bien ! 
+Ça va bien! 
 
-Bonjour, Duo ! 
+Bonjour, Duo! 
 
 Bonjour, je suis un chat. 
 
-Ça va bien ? 
+Ça va bien? 
 
-Bonsoir ! 
+Bonsoir! 
 
-Oui, et toi ? 
+Oui, et toi? 
 
 Salut, Émilie. Ça va ? 
 
@@ -70,13 +70,13 @@ Salut, Émilie. Ça va ?
 
 Bonsoir, Patricia. 
 
-Comment ça va ? 
+Comment ça va? 
 
 Très bien, merci. Et toi ? 
 
 Salut, comment ça va ? 
 
-Très bien, et toi ? 
+Très bien, et toi? 
 
 Merci, Marie. 
 
@@ -86,7 +86,7 @@ Bonsoir, Marie, ça va ?
 
 Au revoir, Paul. 
 
-Bienvenue ! 
+Bienvenue! 
 
 Enchanté, Charlotte ! Je suis Gabriel. 
 
@@ -120,13 +120,13 @@ Salut, à bientôt.
 
 Merci beaucoup, Marc.
 
-Ça va bien, Béa !
+Ça va bien, Béa!
 
-Ça va très bien. Et toi, Junior ?
+Ça va très bien. Et toi, Junior?
 
 Bonsoir, ça va bien.
 
-Très bien, et toi ?
+Très bien, et toi?
 
 Bien, merci.
 

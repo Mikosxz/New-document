@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c79ecb382e406b4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "read/Taffy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f8f951a260970b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "read/Sun Yat-sen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "133cc9380dfc7210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "read/Sun Yat-sen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lang/日本語/踊り字.md",
+                "file": "read/Sun Yat-sen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lang/日本語/踊り字.md",
+                "file": "read/Sun Yat-sen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lang/日本語/踊り字.md"
+                "file": "read/Sun Yat-sen.md"
               }
             }
           }
@@ -136,17 +173,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d20e40fa84c800cd",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "133cc9380dfc7210",
   "lastOpenFiles": [
-    "lang/日本語/音読み.md",
-    "lang/日本語/音便.md",
-    "lang/日本語/訓読み.md",
-    "lang/日本語/擬声語・擬態語.md",
-    "lang/日本語/母音無聲化.md",
-    "lang/日本語/連濁.md",
+    "read/Plato.md",
+    "read/Lin Helian.md",
+    "read/Reagon.md",
+    "read/Sun Yat-sen.md",
+    "read/Taffy.md",
+    "read/Wang Xiaobo.md",
     "case/18-956 Google LLC v. Oracle America, Inc. (04 05 2021).pdf",
-    "archive/George Washington's Farewell Address.pdf",
-    "lang/Latin/Latin.md",
-    "lang/Meta/漢字.md"
+    "lang/日本語/連濁.md",
+    "lang/日本語/母音無聲化.md",
+    "lang/日本語/擬声語・擬態語.md"
   ]
 }
