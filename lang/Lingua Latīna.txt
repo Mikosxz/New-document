@@ -1,0 +1,97 @@
+de facto
+
+de jure
+
+status quo
+
+et cetera
+
+id est
+
+tabula rasa
+
+carpe diem
+
+en masse
+
+vice versa
+
+Quis custodiet ipsos custodes.
+
+Quod erat demonstrandum.
+
+Exempli gratia.
+
+Puer sum.
+
+Ego sum vir.
+
+Ego sum Corinna.
+
+Sum femina.
+
+Marcus est vir.
+
+Livia est femina.
+
+Stephanus est puer.
+
+Puella sum.
+
+Vir dormit.
+
+Quis dormit?
+
+Quis sum ego?
+
+Livia non est vir.
+
+Femina non sum, sed vir.
+
+Puer non dormit, sed puella dormit.
+
+Tu es vir.
+
+Quis es tu?
+
+Ego non sum Stephanus.
+
+Quis est is?
+
+Quis est ea?
+
+Ea est puella.
+
+Ego domi sum.
+
+Femina studet.
+
+Puella scribit.
+
+Quis est in urbe?
+
+Femina studet et scribit.
+
+Marcus scribit et non dormit.
+
+Is domi dormit.
+
+Is non est Marcus.
+
+Non puer, sed vir scribit.
+
+Mater scribit.
+
+Tu es pater.
+
+Ea est soror.
+
+Soror in urbe est.
+
+Frater studet.
+
+Frater domi dormit.
+
+Soror in urbe est, mater domi est.
+
+

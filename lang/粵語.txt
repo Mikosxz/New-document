@@ -5,9 +5,9 @@ nei hou, ngo jiu saam dip coeng fan.
 要一碟腸粉，一籠豉汁排骨。
 jiu jat dip coeng fan, jat lung si zap paai gwat.
 呢個係燒賣。
-ne go hai siu maai.
+ni go hai siu maai.
 你好，請問呢個係乜嘢？
-nei hou, ceng man ne go hai mat je?
+nei hou, ceng man ni go hai mat je?
 早晨。
 zou san.
 唔該。
@@ -59,7 +59,7 @@ ngo ge ming hai aa zan, ngo ngaam lai gwong zau.
 你嘅電話冧把係咩啊？
 nei ge din waa lam baa hai me aa?
 呢個係我嘅微信二維碼。
-ne go hai ngo ge mei seon ji wai maa.
+ni go hai ngo ge mei seon ji wai maa.
 得閒飲茶啦。
 dak haan jam caa laa.
 我加你地嘅微信啦！
@@ -101,11 +101,11 @@ nei dei ge mei seon ming hai me aa?
 好開心識到你，我哋加微信啦。
 hou hoi sam sik dou nei, ngo dei gaa mei seon laa.
 呢個係我嘅電話冧把。
-ne go hai ngo ge din waa lam baa.
+ni go hai ngo ge din waa lam baa.
 你係唔係啱嚟廣州啊。
 nei hai m hai ngaam lai gwong zau aa.
 呢個係我哋嘅微信羣二維碼。
-ne go hai ngo dei ge mei seon kwan ji wai maa.
+ni go hai ngo dei ge mei seon kwan ji wai maa.
 請問廁所喺邊度？
 ceng man ci so hai bin dou?
 電梯喺邊度？
@@ -117,19 +117,19 @@ din tai hai go dou.
 唔該，請問電梯喺邊度？
 m goi, ceng man din tai hai bin dou?
 呢度有一間餐廳。
-nei dou jau jat gaan caan teng.
+ni dou jau jat gaan caan teng.
 請問呢度有冇銀行？
-ceng man nei dou jau mou ngan hong?
+ceng man ni dou jau mou ngan hong?
 請問呢度有冇充電寶？
-ceng man nei dou jau mou cung din bou?
+ceng man ni dou jau mou cung din bou?
 呢度有餐廳。
-nei dou jau caan teng.
+ni dou jau caan teng.
 呢度有一間便利店。
-nei dou jau jat gaan bin lei dim.
+ni dou jau jat gaan bin lei dim.
 請問售票處喺邊度？
 ceng man sau piu cyu hai bin dou?
 唔該，請問呢度有冇地鐵站？
-m goi, ceng man nei dou jau mou dei tit zaam?
+m goi, ceng man ni dou jau mou dei tit zaam?
 請問巴士站喺邊度？
 ceng man baa si zaam hai bin dou?
 唔好意思，售票處唔喺邊度。
@@ -171,19 +171,19 @@ haang loeng baak mai zau dou laa, m sai daap dik si.
 唔該，請問去上下九步行街點行？
 m goi, ceng man heoi soeng haa gau bou haang gaai dim haang?
 由呢度轉右，行差唔多兩百米就到喇。
-jau nei dou zyun jau, haang caa m do loeng baak mai zau dou laa.
+jau ni dou zyun jau, haang caa m do loeng baak mai zau dou laa.
 多謝晒！
 do ze saai!
 直行到紅綠燈嗰度，轉左就到喇。
-zik haang dou hung luk dang nei dou, zyun zo zau dou laa.
+zik haang dou hung luk dang ni dou, zyun zo zau dou laa.
 呢度離上下九步行街有幾遠？
-nei dou lei soeng haa gau bou haang gaai jau gei jyun?
+ni dou lei soeng haa gau bou haang gaai jau gei jyun?
 我知喇，多謝晒。
 ngo zi laa, do ze saai.
 唔該，請問呢度離廣州塔有幾遠？
-m goi, ceng man nei dou lei gwong zau taap jau gei jyun?
+m goi, ceng man ni dou lei gwong zau taap jau gei jyun?
 由呢度直行，喺紅綠燈嗰度轉右就到喇。
-jau nei dou zik haang, hai hung luk dang go dou zyun jau zau dou laa.
+jau ni dou zik haang, hai hung luk dang go dou zyun jau zau dou laa.
 弊喇！
 bai laa!
 到咗越秀公園站啦！
@@ -266,3 +266,92 @@ nei sai lou hai bin dou duk syu?
 ngo aa go ji gaa hai duk syu ding hai zou je aa?
 呢兩個細佬係邊個啊？
 ni loeng go sai lou hai bin go aa?
+我哋嗰度嘅冬天好凍。
+ngo dei go dou ge dung tin hou dung.
+呢度嘅嘢好平啲。
+ni dou ge je hou peng di.
+呢度嘅嘢好食啲。
+ni dou ge je hou sik di.
+我哋嗰度嘅嘢貴啲。
+ngo dei go dou ge je gwai di.
+香港有好多好嘢食。
+hoeng gong jau hou do hou je sik.
+因為呢度有好多好嘢。
+jan wai ni dou jau hou do hou je.
+你點解嚟廣州呢？
+nei dim gaai lai gwong zau ne?
+你識講咩語言？
+nei sik gong me jyu jin?
+我識講白話。
+ngo sik gong baak waa.
+我識講白話同英文。
+ngo sik gong baak waa tung jing man.
+我今年廿二歲。
+ngo gam nin jaa ji seoi.
+你今年幾大呢？
+nei gam nin gei daai ne?
+你幾時嚟廣州㗎？
+nei gei si lai gwong zau gaa?
+你今年幾大，有冇廿歲啊？
+nei gam nin gei daai, jau mou jaa seoi aa?
+你幾時識到華仔㗎？
+nei gei si sik dou waa zai gaa?
+你知唔知華仔幾時嚟香港㗎？
+nei zi m zi waa zai gei si lai hoeng gong gaa?
+我老細很有米。
+ngo lou sai han jau mai.
+阿珍叻啲。
+aa zan lek di.
+嘉欣靚啲。
+gaa jan leng di.
+係阿珍靚啲定係嘉欣靚啲？
+hai aa zan leng di ding hai gaa jan leng di?
+阿珍犀利啲。
+aa zan sai lei di.
+佢白話講得好好。
+keoi baak waa gong dak hou hou.
+呢間餐廳嘅嘢麻麻啲。
+ni gaan caan teng ge je maa maa di.
+阿珍同嘉欣邊個叻啲？
+aa zan tung gaa jan bin go lek di?
+用多鄰國有咁抵？
+jung do leon gwok jau gam dai?
+點解你啱嚟廣州白話就講得咁好呢？
+dim gaai nei ngaam lai gwong zau baak waa zau gong dak gam hou ne?
+我唔單只識講白話，仲識講法文。
+ngo m daan zi sik gong baak waa, zung sik gong faat man.
+學白話濕濕碎啫。
+hok baak waa sap sap seoi ze.
+用多鄰國，學語言濕濕碎啫。
+jung do leon gwok, hok jyu jin sap sap seoi ze.
+我話你知，用多鄰國好抵㗎！
+ngo waa nei zi, jung do leon gwok hou dai gaa!
+我哋嗰度都有好多好嘢食。
+ngo dei go dou dou jau hou do hou je sik.
+我今年學緊白話。
+ngo gam nin hok gan baak waa.
+你知唔知，邊度嘅嘢平啲。
+nei zi m zi, bin dou ge je peng di.
+點解你咁快就識講白話呢？
+dim gaai nei gam faai zau sik gong baak waa ne?
+你哋嗰度嘅冬天係唔係凍啲啊。
+nei dei go dou ge dung tin hai m hai dung di aa.
+阿珍而家要同阿強掟煲。
+aa zan ji gaa jiu tung aa koeng deng bou.
+阿強條女係邊個？
+aa koeng tiu neoi hai bin go?
+阿珍同阿強掟咗煲。
+aa zan tung aa koeng deng zo bou.
+佢哋點解嘈交啊？
+koei dei dim gaai cou gaau aa?
+阿強唔係阿珍條仔。
+aa koeng m hai aa zan tiu zai.
+呢張係佢哋拍拖時嘅相。
+nei zoeng hai koei dei paak to si ge soeng.
+你知唔知佢哋點解嘈交啊？
+nei zi m zi koei dei dim gaai cou gaau aa?
+呢個細路係我細佬。
+ni go sai lou hai ngo sai lou.
+呢個細路係你定係你阿哥？
+ni go sai lou hai nei ding hai nei aa go?
+

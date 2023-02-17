@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lang/日本語/踊り字.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c79ecb382e406b4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "read/Taffy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f8f951a260970b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "read/Sun Yat-sen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "133cc9380dfc7210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "read/Sun Yat-sen.md",
+                "file": "read/Lin Helian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "read/Sun Yat-sen.md",
+                "file": "read/Lin Helian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "read/Sun Yat-sen.md",
+                "file": "read/Lin Helian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "read/Sun Yat-sen.md"
+                "file": "read/Lin Helian.md"
               }
             }
           }
@@ -183,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "133cc9380dfc7210",
+  "active": "d20e40fa84c800cd",
   "lastOpenFiles": [
     "read/Plato.md",
-    "read/Lin Helian.md",
+    "read/Wang Xiaobo.md",
     "read/Reagon.md",
+    "read/Lin Helian.md",
+    "lang/日本語/踊り字.md",
     "read/Sun Yat-sen.md",
     "read/Taffy.md",
-    "read/Wang Xiaobo.md",
     "case/18-956 Google LLC v. Oracle America, Inc. (04 05 2021).pdf",
     "lang/日本語/連濁.md",
-    "lang/日本語/母音無聲化.md",
-    "lang/日本語/擬声語・擬態語.md"
+    "lang/日本語/母音無聲化.md"
   ]
 }
