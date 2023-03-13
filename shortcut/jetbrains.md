@@ -48,3 +48,4 @@ Ctrl + B                    declaration
 Ctrl + E                    recent open files
 Ctrl + Shift + E            find in recent files
 Ctrl + Enter                jupyter run shell
+Alt + 9                     git history
