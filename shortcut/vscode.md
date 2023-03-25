@@ -9,4 +9,5 @@ Alt + click multiply cursor
 Shift + Alt + F format file
 Ctrl + Shift + P command palette
     Delete Duplicate Lines
+Alt + Shift + F Code format
     

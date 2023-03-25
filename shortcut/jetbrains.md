@@ -1,4 +1,5 @@
 Shift + Shift   search panel
+Ctrl + Alt + L  format code
 Alt + Enter     suggestion
 Alt + Insert    code generation
 Ctrl + Alt + Shift + T  refactoring actions

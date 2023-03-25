@@ -26,7 +26,7 @@ house
 
 excellent
 
-Rowad and Karim
+Rawad and Curry
 
 Curry and Bob
 
@@ -68,9 +68,9 @@ George is a translator
 
 George is fun
 
-Sam Karim
+Sam is generous
 
-Rawad Saeed
+Rawad is happy
 
 Zaid is excellent
 
@@ -98,15 +98,15 @@ Pioneers from Oman
 
 George and Rosa from Lebanon
 
-Tamer Arabi
+Tamer is an Arab
 
-George Arabi
+George is an Arab
 
-Duo sreig
+Duo is a translator
 
-Omar Zaki.
+Omar is smart.
 
-Tamer Sreig.
+Tamer is a translator.
 
 Zaid is an Arabic translator.
 
@@ -132,7 +132,7 @@ Zaid Omani.
 
 Shadi is a Syrian doctor.
 
-American Sith.
+Seth is an American.
 
 Lebanese pop.
 
